@@ -15,3 +15,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "H-PermissionX"
 include(":app")
+include(":PermissionLib")
